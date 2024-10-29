@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="amarilloLechera">#fb9f00</color>
+    <color name="generic_background_color">#f7f9e1</color>
+    <color name="boton_color_principal">#035AA6</color>
+    <color name="boton_color_secundario">#0367A6</color>
+
+    <color name="colorPrimary">#0080FF</color>
+    <color name="colorPrimaryDark">#1B419F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="rojo">#FF0000</color>
+    <color name="negro">#000000</color>
+    <color name="blanco">#FFFF</color>
+    <color name="azul">#0080FF</color>
+    <color name="gray">#DCDCEA</color>
+    <color name="lightGray">#EDEDF4</color>
+    <color name="darkGray">#24252A</color>
+
+</resources>
